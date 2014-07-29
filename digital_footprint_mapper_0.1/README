@@ -1,0 +1,62 @@
+########################################################
+# Digital Footprint Mapper 0.1 (DFMAP)                 #
+# Coded by: Mayank Pal Singh                           #
+# Email: mayankpalsingh74@gmail.com                    #  
+########################################################
+
+What is this ?
+--------------
+Digital footprint mapper (DFMAP) is a tool that helps to identify the digital presence of the organization by performing completely passive and semi passive reconnaissance. A user can simply input the name of the organization whose digital presence has to be identified. With the current version that is 0.1 following reconnaisance modules have been supported for identifying the digital presence.
+
+1. Search engine scrapping (google, yahoo, bing, ask, lycos)
+
+2. Robtex search (All identified domains from searching engine scrapping undergoes robtex search.)
+
+3. Domain to host/IP mapping
+
+4. Whois on domain
+
+5. Whois on IP
+
+6. Metadata extraction of the dowloaded files (pdf, xls, doc etc) (Publicly available files would be downloaded upon which exiftool would be used to extract meta data from the documents )
+
+7. Fingerprinting of domain (to identify the remote OS in a passive way, p0f tool is being used. If you choose to execute this module then please make sure you have p0f-3.06b installed on your machine. This module will require you to pass the complete path of the file which stores the output of p0f. For example under dir/home/john/tools/p0f-3.06b you run the tool p0f by typing "./p0f -i eth0 -o sample-capture.txt" then the input for the module would be the complete path of the sample-capture.txt file which in this case is /home/john/tools/p0f-3.06b/sample-capture.txt)
+
+8. Google dorking (Choose your query wisely under conf/dorkqueries.txt as it takes quite a while to execute all the queries. By default the number of queries would be 2500+)
+
+9. Shodan (Apart from the enteries in the database, detailed .txt file can be found under output/shodan-results.txt)
+
+10. Unstructured data analysis using nltk package 
+
+11. SSL certificate validation
+
+12. Technology statistics 
+
+
+Dependencies
+------------
+Following are the dependencies to execute the digital foorprinting program.
+1. Python 2.7.5+
+2. MySQL database
+3. Python MySQLdb package
+4. webarticle2text
+5. nltk
+6. nltk.download()
+7. BeautifulSoup
+
+Usage
+-----
+python profiler.py
+
+Input
+-----
+Name of the organization without mentioning TLD.
+For Example: example (Correct) / example.com (Incorrect)
+
+Support & Contact
+-----------------
+If you find it difficult to execute or understand drop me an e-mail at mayankpalsingh74@gmail.com.
+
+Platform Tested On
+------------------
+Ubuntu 13.10, Python 2.7.5+

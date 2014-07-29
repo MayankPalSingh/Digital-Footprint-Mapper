@@ -1,0 +1,1 @@
+creat table domain2url (Domain varchar(100), Url varchar(1000) PRIMARY KEY)

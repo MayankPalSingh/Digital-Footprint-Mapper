@@ -1,0 +1,6 @@
+invalid request
+no match for
+error for
+data not found
+no whois server is known
+not found

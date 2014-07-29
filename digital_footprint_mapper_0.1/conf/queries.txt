@@ -1,0 +1,53 @@
+%(Name)s
+site:*.%(Name)s.*
+site:.*%(Name)s.com inurl:https
+site:%(Name)s.com
+site:%(Name)s.*
+site:.*%(Name)s.com
+site:*.%(Name)s.* filetype:doc
+site:*.%(Name)s.* filetype:ppt
+site:*.%(Name)s.* filetype:pps
+site:*.%(Name)s.* filetype:xls
+site:*.%(Name)s.* filetype:docx
+site:*.%(Name)s.* filetype:pptx
+site:*.%(Name)s.* filetype:ppsx
+site:*.%(Name)s.* filetype:xlsx
+site:*.%(Name)s.* filetype:sxw
+site:*.%(Name)s.* filetype:odt
+site:*.%(Name)s.* filetype:ods
+site:*.%(Name)s.* filetype:odg
+site:*.%(Name)s.* filetype:odp
+site:*.%(Name)s.* filetype:pdf
+site:*.%(Name)s.* filetype:wpd
+site:*.%(Name)s.* filetype:swf
+site:*.%(Name)s.* filetype:php
+site:*.%(Name)s.* filetype:aspx
+site:*.%(Name)s.* filetype:asp
+site:*.%(Name)s.* filetype:asmx
+site:*.%(Name)s.* filetype:do
+site:*.%(Name)s.* filetype:nsf
+site:*.%(Name)s.* filetype:jsp
+site:*.%(Name)s.* filetype:exe
+site:*.%(Name)s.* filetype:pl
+site:*.%(Name)s.* filetype:cd
+site:*.%(Name)s.* filetype:cfm
+site:*.%(Name)s.* filetype:cgi
+site:*.%(Name)s.* filetype:lasso
+site:*.%(Name)s.* filetype:tpl
+site:*.%(Name)s.* filetype:dna
+site:*.%(Name)s.* filetype:jserv
+site:*.%(Name)s.* filetype:servlet
+site:*.%(Name)s.* filetype:jsf
+site:*.%(Name)s.* filetype:ssjs
+site:*.%(Name)s.* filetype:ssi
+site:*.%(Name)s.* filetype:xsp
+site:*.%(Name)s.* filetype:app
+site:*.%(Name)s.* filetype:jws
+site:*.%(Name)s.* filetype:srv
+site:*.%(Name)s.* filetype:html
+site:*.%(Name)s.* filetype:htm
+site:*.%(Name)s.* filetype:txt
+site:*.%(Name)s.* inurl:login
+site:*.%(Name)s.* inurl:jpeg
+site:*.%(Name)s.* inurl:jpg
+site:*.%(Name)s.* inurl:png

@@ -1,0 +1,29 @@
+Author
+Application
+App Version
+Comp Obj User Type
+Company
+Create Date
+Creator
+Creator Tool
+Current User
+Description
+File Name
+File Permissions
+File Type
+Format
+Generator
+History Software Agent
+Hyperlinks
+Initial-creator
+Last Modified By
+MIME Type
+Producer
+Software
+Tag Author Email
+Tag Author Email Display Name
+Tag Email Subject
+Title
+User Access
+Web Statement
+XMP Toolkit

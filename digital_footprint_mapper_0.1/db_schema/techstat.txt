@@ -1,0 +1,1 @@
+create table techstat (Domain varchar(100), Tech varchar(100), Count varchar(100), PRIMARY KEY (Domain, Tech));

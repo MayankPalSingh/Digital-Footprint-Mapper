@@ -1,0 +1,1 @@
+create table domain2host (Domain varchar(250), IP varchar(20) PRIMARY KEY);

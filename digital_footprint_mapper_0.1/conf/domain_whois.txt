@@ -1,0 +1,37 @@
+Registrar_Whois:DB:Registrar WHOIS Server
+Registrar_Url:DB:Registrar URL
+Updated_Data:DB:Updated Date#OR#modified#OR#changed#OR#Last updated:#OR#domain_datelastmodified
+Creation_Date:DB:Creation Date#OR#created#OR#Registration Date#OR#registration#OR#Created#OR#Registered on#OR#domain_dateregistered
+Expiration_Date:DB:Registrar Registration Expiration Date#OR#expires#OR#Expiration Date#OR#renewal#OR#Expiry Date#OR#domain_datebilleduntil
+Registrar:DB:Registrar#OR#registrar#OR#Registrar Name#OR#registrar-name#OR#registrar_name
+Registrar_Email:DB:Registrar Abuse Contact Email#OR#Registrar Contact Information#OR#registrar-email#OR#registrar_email
+Registrar_Phone:DB:Registrar Abuse Contact Phone#OR#registrar_phone
+Registrar_Country:DB:Registrar Country#OR#registrar-country#OR#registrar_country
+Registrant_Name:DB:Registrant Name#OR#Registrant#OR#person#OR#personname#OR#Name#OR#registrant_contact_name
+Registrant_Org:DB:Registrant Organization#OR#org-name#OR#organization#OR#Organization
+Registrant_City:DB:Registrant City#OR#org-city#OR#city#OR#registrant_contact_city
+Registrant_State:DB:Registrant State/Province#OR#registrant_contact_province
+Registrant_Country:DB:Registrant Country#OR#org-country#OR#country#OR#registrant_contact_country
+Registrant_Phone:DB:Registrant Phone#OR#registrant_contact_phone
+Registrant_Fax:DB:Registrant Fax
+Registrant_Email:DB:Registrant Email#OR#Registrant Contact Email#OR#e-mail#OR#registrant_contact_email
+Admin_Name:DB:Admin Name#OR#adm-name#OR#admin_contact_name
+Admin_Org:DB:Admin Organization
+Admin_City:DB:Admin City#OR#adm-city#OR#Postal Area#OR#admin_contact_city
+Admin_State:DB:Admin State/Province
+Admin_Country:DB:Admin Country#OR#Country#OR#adm-country#OR#Country#OR#admin_contact_country
+Admin_Phone:DB:Admin Phone#OR#Phone#OR#phone#OR#Phone Number#OR#admin_contact_phone
+Admin_Fax:DB:Admin Fax#OR#Fax#OR#fax-no#OR#admin_contact_fax
+Admin_Email:DB:Admin Email#OR#Email#OR#adm-email#OR#Email Address#OR#admin_contact_email
+Tech_Name:DB:Tech Name#OR#tec-name#OR#technical_contact_name
+Tech_Org:DB:Tech Organization
+Tech_City:DB:Tech City#OR#tec-city#OR#technical_contact_city
+Tech_State:DB:Tech State/Province#OR#technical_contact_province
+Tech_Country:DB:Tech Country#OR#tec-country#OR#technical_contact_country
+Tech_Phone:DB:Tech Phone#OR#technical_contact_phone
+Tech_Fax:DB:Tech Fax#OR#technical_contact_fax
+Tech_Email:DB:Tech Email#OR#tec-email#OR#technical_contact_email
+state:DB:state
+admin_c:DB:admin-c
+tech_c:DB:tech-c
+billing_c:DB:billing-c

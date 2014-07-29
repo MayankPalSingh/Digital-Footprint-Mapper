@@ -1,0 +1,16 @@
+.doc
+.ppt
+.pps
+.xls
+.docx
+.pptx
+.ppsx
+.xlsx
+.sxw
+.odt
+.ods
+.odg
+.odp
+.pdf
+.wpd
+.swf

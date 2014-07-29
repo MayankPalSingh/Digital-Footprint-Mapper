@@ -1,0 +1,1 @@
+creat table dorkstat (Domain varchar(100), Url varchar(1000) PRIMARY KEY)

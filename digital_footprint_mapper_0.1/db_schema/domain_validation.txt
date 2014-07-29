@@ -1,0 +1,1 @@
+create table domain_validation (Domain  varchar(100), CertCheck varchar(100), WebCheck varchar(100), WhoisCheck varchar(100), PRIMARY KEY(Domain));

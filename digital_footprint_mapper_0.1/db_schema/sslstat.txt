@@ -1,0 +1,1 @@
+create table sslstat (Domain varchar(250) PRIMARY KEY, NotBefore varchar(100), NotAfter varchar(100), Issuer varchar(100), Subject varchar(100), Hash varchar(100), Renegotiation varchar(100), Compression varchar(100), Fingerprint varchar(100));

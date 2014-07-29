@@ -1,0 +1,4 @@
+Host:localhost
+Username:root
+Password:Password1
+Database:ctp

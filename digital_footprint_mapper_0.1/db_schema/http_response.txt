@@ -1,0 +1,1 @@
+create table http_response (Domain  varchar(100), IP varchar(25), OperatingSystem varchar(100), Server varchar(100), p3p varchar(100), xpoweredby varchar(100), xaspnetversion varchar(100), CacheControl varchar(100), Pragma varchar(100), PRIMARY KEY(Domain, IP));

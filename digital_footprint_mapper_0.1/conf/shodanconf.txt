@@ -1,0 +1,28 @@
+IP
+Country
+Hostname
+OS
+Port
+Updated
+Date
+Server
+Location
+Set-Cookie
+X-AspNet-Version
+X-Powered-By
+WWW-Authenticate
+Servername
+MAC
+IOS Version Reference
+SingTel Circuit Reference
+Host
+Model
+SUPPORT CONTACT
+PHONE
+EoS Lite
+WO
+Xref NC WO
+Neuc
+XCOM host
+TTY name
+Session type

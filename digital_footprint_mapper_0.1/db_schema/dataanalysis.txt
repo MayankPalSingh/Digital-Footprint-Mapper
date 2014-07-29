@@ -1,0 +1,1 @@
+create table data_analysis (Url  varchar(200), Object varchar(200), Subject varchar(200), Entity1 varchar(700), Filler varchar(700), Entity2 varchar(700));
