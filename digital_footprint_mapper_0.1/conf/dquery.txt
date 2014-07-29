@@ -1,2 +1,2 @@
-site:*.kpmg.*  intitle:login
-site:*.kpmg.*  "cacheserverreport for" "This analysis was produced by calamaris"
+site:*.example.*  intitle:login
+site:*.example.*  "cacheserverreport for" "This analysis was produced by calamaris"

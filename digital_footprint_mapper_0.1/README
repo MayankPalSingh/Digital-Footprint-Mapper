@@ -32,6 +32,10 @@ Digital footprint mapper (DFMAP) is a tool that helps to identify the digital pr
 
 12. Technology statistics 
 
+Configuring MySQL Database
+--------------------------
+
+Once MySQL database is up and running, provide the required parameters in database.txt file under conf directory. Sample database directory is present under the conf directory. After creating the database, refer the schema for the tables provided under db_schema directory. Create tables with the used of provided schema. Output from all the modules will be getting stored in the MySql database. "mysql-workbench" would be the good pick view the database.
 
 Dependencies
 ------------
